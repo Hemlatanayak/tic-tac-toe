@@ -1,0 +1,22 @@
+#main{
+    text-align: center;
+}
+.img{
+    height: 95px;
+    width:95px;
+    margin-left: 500%;
+}
+h1{
+    color:brown;
+    font-size:45px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#ins{
+    color:forestgreen;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#status{
+    color:darkred;
+    font-size: 17px;
+}
